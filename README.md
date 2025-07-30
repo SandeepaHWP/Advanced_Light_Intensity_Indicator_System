@@ -19,7 +19,7 @@ To explore and run the simulation:
 
 1. Visit: [Falstad Circuit Simulator - ALII System](https://www.falstad.com/circuit/)
 2. Click on **"File" > "Import from Text"**
-3. Select the Falstad.txt
+3. Select the Falstad_file.txt
 4. Click **“OK”** to load and run the simulation
 
 > 💡 **Note:** This simulation shows logic behavior, averaging effect, and how light intensity levels are interpreted via discrete circuitry.
